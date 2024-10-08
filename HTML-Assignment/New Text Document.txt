@@ -1,0 +1,55 @@
+1. Are the HTML tags and elements the same thing?  
+ == No,tags and elements are two diffrent things. HTML tags exist in paring like openig <> and colsing </> tags where HTML element contains content.
+2. What are tags and attributes in HTML?  
+ == HTML tags defines the structure and meaning of the contant. for example <p></p> it shows that the content written between this tag is paragraph.
+     HTML Attributs defines the additional information about the content like:-src-source of an image, style etc.
+3. What are void elements in HTML?  
+== void elements are those elements that do not have closing tags and they can't contain any kind of text but they can have attributes. for exapmle:- <br> <img> <hr> and so many.
+4. What are HTML Entities? 
+5.What are different types of lists in HTML?
+== There are three types of html lists:
+      a) ordered list 
+      b) unordered list
+      c) discription list or defination list
+6.What is the ‘class’ attribute in HTML? 
+==class is used to specify name for an html element , class name is a case sensitive and it is used to point to class in css.We denote class in css by (.)classname within curly braces you can write properties.
+7.What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
+== we can define multiple class to an element in a single page where as we can give only one id to an element in a page.
+8.What are the various formatting tags in HTML?  
+==a) <strong>
+    b) <mark>
+    c) <b>
+    d) <sub>
+    e) <sup>
+    f) <i>
+9.How is Cell Padding different from Cell Spacing?  
+==  Cell Padding :-the space in cell padding is between outer border of the div/table and the content/cell inside the div.
+for example:- <div>
+                        <p> hellow</p>
+                     </d>
+so here if we give padding to the above div then the space space between the div border and the hellow will effect.
+ Cell Spacing:- cell spacing helps you to give space between the content/cell in the div/table.
+for example:- <table width="100" border="2" cellspacing="20">
+10. How can we club two or more rows or columns into a single row or column in an HTML table?
+==With the help of colspan we can club two column and with row span we can club two rows into a sing row in an html table.
+11. What is the difference between a block-level element and an inline element? 
+== block-level element takes full width and inline element takes width only as much needed.
+12How to create a Hyperlink in HTML? 
+== With the help of <a></a> (anchore tag or attribute).  <a href=""> it  is used to add url of the link.
+13.What is the use of an iframe tag?  
+== iframe tag is used to insert content from one web to another web page.
+14.What is the use of a span tag? Explain with example?  
+== span tag is used to change the style of some part of text or section.
+for example:- <p> im am using span tag </p>, if i want to change the "span" color from the <p></p>tag then we have to put span tag before and after the "span" word like this:-  <p> im am using <span>span</span> tag </p>.
+15.How to insert a picture into a background image of a web page?  
+==with the help of css property <p style="background-image: url('img_girl.jpg');">.
+16.How are active links different from normal links? 
+== normal link is just a code but active links are highlighted  in blue with the underline, by clicking on active link iser can see the contant.
+17.What are the different tags to separate sections of text? 
+==  <br> tag,<p>
+18.What is SVG?  
+== SVG stand for scalable vector graphics, it s used to insert two dimensional graphic on website.
+19. What is difference between HTML and XHTML? 
+== HTML and XHTML both rae hyper text markup language and used to buld web pages,but in XHTML  we have follow stcict syntax  and XML rules.
+20.What are logical and physical tags in HTML? 
+== Locigical tags indicate the meaning of the text and physicl text indicate the apperiance of the text.
