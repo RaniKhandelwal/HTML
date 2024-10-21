@@ -1,0 +1,23 @@
+                                       Module (HTML5) – 
+
+1.What are the new tags added in HTML5? 
+=> There are following new tags added in the html5:-
+<audio>
+<aside >
+<command>
+<canvas>
+<datalist>
+<details>
+<embed>
+<figure>
+<footer>
+<video>
+<nav>
+etc
+2.How to embed audio and video in a webpage?
+=>you can add audio and video by adding <audio> and <video> elements to the page.
+3.Semantic element in HTML5?  
+sementic elements are those elements that describe its meaning to both browser and athe developer.
+for example:-<header>, <nav>, <section>,<footer> etc
+4.Canvas and  SVG  tags  
+=> SVG stands for Scalable Vector Graphics, it is used to describe 2d vector graphics.Canvas alloes user to draw graphics  o the fly using javascript.
